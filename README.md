@@ -6,6 +6,8 @@ Official description: "Better front-end for Google Translate that doesn't track 
 
 Official git repository [here](https://git.sr.ht/~yerinalexey/gtranslate)
 
+Notice: the project may have been deprecated in favor of [simplytranslate](LivingWithHippos/simplytranslate-dockerized).
+
 ### Installation
 
 1. Clone this repo
